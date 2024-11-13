@@ -1,0 +1,16 @@
+.image{
+margin-top: 10px;
+}
+
+.name{
+font-weight: 700;
+font-size: 20px;
+}
+
+.online{
+color: green
+}
+
+.offline{
+color: red;
+}
